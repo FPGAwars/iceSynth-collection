@@ -4,7 +4,12 @@
   "description": "Blocks for audio synthesis",
   "keywords": "Tutorial,Jedi Academy",
   "license": "GPL-2.0",
-  "authors": [{
+  "authors": [
+    {
+      "name": "Gundy",
+      "url": "https://github.com/gundy"
+    },
+    {
     "name": "Juan González-Gómez (Obijuan)",
     "email": "obijuan.cube@gmail.com",
     "url": "https://github.com/Obijuan"
